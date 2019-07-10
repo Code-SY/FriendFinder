@@ -1,0 +1,69 @@
+.site {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 2em;
+    color: rgb(255, 247, 0);
+    background: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Best-Friend-Wallpapers-HD-For-Desktop.jpg); 
+    background-position: center;
+	background-size: 100% 100%;
+}
+body {
+    font-family: 'Permanent Marker', cursive;
+    color: rgba(6, 70, 26, 0.92);
+    background-color:rgba(86, 126, 102, 0.81); 
+}
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+.content {
+	flex: 1;
+}
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 4em;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+p {
+	text-align: center;
+	max-width: 60%;
+	line-height: 1.75;
+	margin: auto;
+	font-size: 1em;
+}
+footer {
+	text-align: right;
+	background: rgba(1, 1, 1, 0.324);
+	padding: 7px;	
+}
+button {
+	margin-bottom: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#submitBtn {
+    margin-top: 5%;
+}
+form {
+	/*margin-top: 40px;*/
+}
+a {
+	color: rgb(255, 247, 0);
+	font-size: 15px;
+}
+#bestFriendPhoto {
+	max-width: 100%;
+	height: auto;
+}
+#bestFriendModal {
+	text-align: center;
+}
+span {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: rgb(211, 221, 65);
+	font-size: 20px;
+}
