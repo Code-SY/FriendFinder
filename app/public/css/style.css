@@ -9,7 +9,7 @@
 body {
     font-family: 'Permanent Marker', cursive;
     color: rgba(6, 70, 26, 0.92);
-    background-color:rgba(86, 126, 102, 0.81); 
+    background-color:rgba(91, 133, 107, 0.81); 
 }
 .site {
 	display: flex;
@@ -48,7 +48,7 @@ button {
     margin-top: 5%;
 }
 form {
-	/*margin-top: 40px;*/
+	margin-top: 40px;
 }
 a {
 	color: rgb(255, 247, 0);
