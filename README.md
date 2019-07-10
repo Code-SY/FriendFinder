@@ -10,10 +10,10 @@ https://code-sy-friendfinder.herokuapp.com/
 
 
 ### Technologies Used:
-HTML
-CSS
-Javascript
-Express
-Node
-JSON
-app deploed to Heroku
+- HTML
+- CSS
+- Javascript
+- Express
+- Node
+- JSON
+Application is deployed to Heroku
