@@ -33,6 +33,8 @@ module.exports = function (app) {
             }
         }
 
+        friends.push(user);
+
         res.json(friends[bestFriendIndex]);
     });
 };
