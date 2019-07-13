@@ -17,3 +17,14 @@ https://code-sy-friendfinder.herokuapp.com/
 - Node
 - JSON
 Application is deployed to Heroku
+
+#### How it looks:
+
+![FriendFinder](/img/FriendFinder.png)
+
+![FriendFinder](/img/surveywithnumbers.png)
+
+![FriendFinder](/img/Friend.png)
+
+Best wishes, 
+Sveta :)
